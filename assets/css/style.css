@@ -1419,7 +1419,7 @@ width:100%;
 }
 .contact .email-form button[type=submit]:hover {
   background-color:   rgb(41, 163, 133);
-  box-shadow: 7.5px 7.5px 7.5px #111212;
+ box-shadow: 7.5px 7.5px 7.5px #111212;
 }
 @-webkit-keyframes animate-loading {
   0% {
