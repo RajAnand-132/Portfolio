@@ -984,12 +984,14 @@ Gallery for more images
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
+  color: rgb(0, 0, 0) !important;
+  text-decoration: underline;
 }
 .Projects .title a {
   color: #343a40;
 }
 .Projects .title a:hover {
-  color: #149ddd;
+  color: #03975c;
 }
 .Projects .description {
   margin-left: 80px;
