@@ -16,6 +16,6 @@ The bare minimum of a portfolio
 - 5. Your portfolio should have a custom domain. Buy a domain name – you can get them for less than $10. Don't send people to 39238834.netfily.com
 - 6. A way for people to contact you, preferably your email
 
--If you have these six non-negotiables on your portfolio, you are off to a good start.
+- If you have these six non-negotiables on your portfolio, you are off to a good start.
 
 Let's have a look to my portfolio:-     [Live Portfolio](https://rajanand-132.github.io/Portfolio/)         
