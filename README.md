@@ -1,4 +1,5 @@
 # Portfolio
+
 A portfolio is a way for you to showcase who you are, what skills you have, and most importantly the work you've done.
 
 As a developer, your portfolio is going to be in the form of a website. The main goal of this website is to showcase yourself and your work in the best way possible.
