@@ -9,12 +9,12 @@ A portfolio should therefore include some standard elements. Below are the bare 
 The bare minimum of a portfolio
 - These are the non-negotiables of any developer portfolio:
 
-- 1. Responsive design (learn about how to do that here)
-- 2. Projects showcasing your work
-- 3. An "about me" section or somewhere people reading your site can learn about you
-- 4. Your portfolio needs to be accessible
-- 5. Your portfolio should have a custom domain. Buy a domain name – you can get them for less than $10. Don't send people to 39238834.netfily.com
-- 6. A way for people to contact you, preferably your email
+ 1. Responsive design (learn about how to do that here).
+ 2. Projects showcasing your work.
+ 3. An "about me" section or somewhere people reading your site can learn about you.
+ 4. Your portfolio needs to be accessible.
+ 5. Your portfolio should have a custom domain. Buy a domain name "xyz.com".
+ 6. A way for people to contact you, preferably your email.
 
 - If you have these six non-negotiables on your portfolio, you are off to a good start.
 
