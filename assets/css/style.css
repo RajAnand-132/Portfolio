@@ -187,15 +187,16 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: linear-gradient(black,rgb(23, 5, 5));
+  background: linear-gradient(black, rgb(23, 5, 5));
   overflow-y: auto;
 }
+
 #header .profile img {
   margin: 15px auto;
   display: block;
   width: 120px;
-  
 }
+
 #header .profile h1 {
   font-size: 24px;
   margin: 0;
@@ -205,10 +206,13 @@ h1, h2, h3, h4, h5, h6 {
   text-align-last: center;
   font-family: "Poppins", sans-serif;
 }
-#header .profile h1 a, #header .profile h1 a:hover {
+
+#header .profile h1 a,
+#header .profile h1 a:hover {
   color: #fff;
   text-decoration: none;
 }
+
 #header .profile .links a {
   font-size: 18px;
   display: inline-block;
@@ -223,6 +227,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 36px;
   transition: 0.3s;
 }
+
 #header .profile .links a:hover {
   background: #c8e8f8;
   color: rgb(0, 0, 0);
@@ -235,12 +240,24 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 1199px) {
   #header {
-    left: -300px;
+      left: -300px;
   }
-
   #main {
-    margin-left: 0;
+      margin-left: 0;
   }
+}
+
+#header::-webkit-scrollbar {
+  width: 3px;
+}
+
+#header::-webkit-scrollbar-track {
+  background: linear-gradient(rgb(23, 5, 5), black);
+}
+
+#header::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(rgb(173, 171, 171), rgb(38, 38, 38));
+  border-radius: 3px;
 }
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -253,6 +270,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+.nav-menu>ul {
+  padding-bottom: 45px;
 }
 .nav-menu > ul > li {
   position: relative;
