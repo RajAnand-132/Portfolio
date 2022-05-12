@@ -864,7 +864,7 @@ section {
 Gallery for more images
 ----------------------------------------------------------------- */
 #Gallery-Extra{
-  height: 270px !important;
+  height: 280px !important;
   overflow-y: scroll;
 }
 #Gallery-Extra::-webkit-scrollbar {
