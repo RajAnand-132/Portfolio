@@ -19,4 +19,4 @@ The bare minimum of a portfolio
 
 - If you have these six non-negotiables on your portfolio, you are off to a good start.
 
-Let's have a look to my portfolio:-     [Live Portfolio](https://rajanand-132.github.io/Portfolio/)         
+Let's have a look to my portfolio:-     [Checkout My Portfolio Here -->>>](https://rajanand-132.github.io/Portfolio/)         
