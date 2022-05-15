@@ -3,7 +3,7 @@ let load = 0;
 const blurring = () => {
     load++;
     if (load >60) clearInterval(int);
-    bg.style.filter = `blur(${scale(load, 0, 50, 40, 0)}px)`;
+    bg.style.filter = `blur(${scale(load, 0, 60, 40, 0)}px)`;
 };
 
 // For reference: https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
