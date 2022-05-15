@@ -2,7 +2,7 @@ const bg = document.querySelector("#hero");
 let load = 0;
 const blurring = () => {
     load++;
-    if (load >50) clearInterval(int);
+    if (load >60) clearInterval(int);
     bg.style.filter = `blur(${scale(load, 0, 50, 40, 0)}px)`;
 };
 
