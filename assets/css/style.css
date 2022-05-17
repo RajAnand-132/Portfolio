@@ -651,6 +651,8 @@ section {
 }
 .Courses .Courses-item img {
   transition: .5s ease-in-out;
+  border-radius: 5px;
+  border: 1px solid rgb(1, 42, 16);
 
 }
 .Courses .Courses-item h3 {
@@ -687,6 +689,17 @@ section {
   position: relative;
   margin-bottom: 35px;
   border-radius: 70px;
+}
+.Courses .Courses-item .certificateBox{
+  overflow: hidden;
+  height: 330px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.Courses .Courses-item .certificateBox img{
+  height: 100%;
+  width: 100%;
 }
 .Courses .Courses-item p::after {
   content: "";
